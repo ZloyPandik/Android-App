@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="Title">Введите коэффициенты a, b и c</string>
+    <string name="StartButton">Вычислить</string>
+    <string name="Result">Результат</string>
+    <string name="SortButton">Сортировать</string>
+</resources>
